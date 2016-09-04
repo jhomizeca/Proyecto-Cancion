@@ -1,0 +1,9 @@
+c:\users\alumno\documents\visual studio 2015\Projects\ProyectoCancion\ProyectoCancion\bin\Debug\ProyectoCancion.exe.config
+c:\users\alumno\documents\visual studio 2015\Projects\ProyectoCancion\ProyectoCancion\bin\Debug\ProyectoCancion.exe
+c:\users\alumno\documents\visual studio 2015\Projects\ProyectoCancion\ProyectoCancion\bin\Debug\ProyectoCancion.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\ProyectoCancion\ProyectoCancion\obj\Debug\ProyectoCancion.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\ProyectoCancion\ProyectoCancion\obj\Debug\ProyectoCancion.Form1.resources
+c:\users\alumno\documents\visual studio 2015\Projects\ProyectoCancion\ProyectoCancion\obj\Debug\ProyectoCancion.Properties.Resources.resources
+c:\users\alumno\documents\visual studio 2015\Projects\ProyectoCancion\ProyectoCancion\obj\Debug\ProyectoCancion.csproj.GenerateResource.Cache
+c:\users\alumno\documents\visual studio 2015\Projects\ProyectoCancion\ProyectoCancion\obj\Debug\ProyectoCancion.exe
+c:\users\alumno\documents\visual studio 2015\Projects\ProyectoCancion\ProyectoCancion\obj\Debug\ProyectoCancion.pdb
